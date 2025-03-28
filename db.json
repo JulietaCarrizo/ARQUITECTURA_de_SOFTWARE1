@@ -179,6 +179,66 @@
       "Indice_UV": 4.6,
       "Precipitaciones": 0.3,
       "Velocidad_viento": 9.9
+    },
+    {
+      "id": 16,
+      "Ubicacion": "Nueva Córdoba",
+      "Estado": "activo",
+      "Fecha": "2025-03-27",
+      "Hora": "15:15",
+      "Temperatura": 26.4,
+      "Humedad": 52.5,
+      "Indice_UV": 5.7,
+      "Precipitaciones": 0.0,
+      "Velocidad_viento": 10.6
+    },
+    {
+      "id": 17,
+      "Ubicacion": "Alta Córdoba",
+      "Estado": "inactivo",
+      "Fecha": "2025-03-27",
+      "Hora": "15:20",
+      "Temperatura": 23.2,
+      "Humedad": 60.5,
+      "Indice_UV": 4.2,
+      "Precipitaciones": 0.9,
+      "Velocidad_viento": 7.8
+    },
+    {
+      "id": 18,
+      "Ubicacion": "Villa Belgrano",
+      "Estado": "activo",
+      "Fecha": "2025-03-27",
+      "Hora": "15:25",
+      "Temperatura": 24.0,
+      "Humedad": 58.7,
+      "Indice_UV": 4.4,
+      "Precipitaciones": 0.0,
+      "Velocidad_viento": 13.5
+    },
+    {
+      "id": 19,
+      "Ubicacion": "San Vicente",
+      "Estado": "activo",
+      "Fecha": "2025-03-27",
+      "Hora": "15:30",
+      "Temperatura": 26.9,
+      "Humedad": 50.9,
+      "Indice_UV": 6.2,
+      "Precipitaciones": 0.0,
+      "Velocidad_viento": 9.1
+    },
+    {
+      "id": 20,
+      "Ubicacion": "General Paz",
+      "Estado": "activo",
+      "Fecha": "2025-03-27",
+      "Hora": "15:35",
+      "Temperatura": 22.5,
+      "Humedad": 64.2,
+      "Indice_UV": 3.7,
+      "Precipitaciones": 2.1,
+      "Velocidad_viento": 7.0
     }
   ]
 }
